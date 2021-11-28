@@ -1,22 +1,34 @@
 
-# mt-mods organization
+# mt-mods github organization
+
+## About
+
+This organization is a dedicated place for [minetest](https://www.minetest.net) mods and tools
+
+Modders can place their projects under this umbrella to collaborate or hand off maintainership (see [Guidelines](#Guidelines))
+
+**NOTE**: `mt-mods` isn't affiliated with the "official" [minetest-mods](https://github.com/minetest-mods) organization
 
 ## Community
 
-* IRC: #mt-mods / #mt-mods-offtopic
+Join the `mt-mods` community here:
+
+* IRC: #mt-mods or #mt-mods-offtopic on [libera.chat](https://libera.chat)
 * Discord: https://discord.gg/8k3K5nyj7x
+* Matrix: *not bridged yet, helpers welcome*
 
-## TODO
+## Guidelines
 
-(just dumping my ideas here for now)
+Projects can be hosted here under the following conditions:
+* It must have at least one maintainer or be adopted by a member of this organization
+* PR's should be at least allowed for bugfixing
+* Changes should always be made with backwards-compatibility in mind
+* Choose an open license (https://opensource.org/licenses)
 
-* Create guidelines (not rules)
-  * `mt-mods` should be a place for innovation not a mod-graveyard
-  * Clarify the "unofficial" position (not endorsed by the "official" community, whatever official means)
-  * Mod development
-    * Backwards compatibility
-  * Modding/coding should be fun
-* Chat
-  * Bridge discord <-> irc channels
-  * Add all gh-webhooks to the discord feed (commits, issues, pr's)
-* Find out where to place the `awesome-minetest` repo
+General notes:
+* This isn't a mod-graveyard, be open about new features/refactorings and discussions
+* Modding/Coding should be fun, be nice to each other and keep in mind that we are all doing this as a hobby
+
+## Links
+
+* Official Minetest discord: https://discord.gg/minetest
