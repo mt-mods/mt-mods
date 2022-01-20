@@ -32,3 +32,4 @@ General notes:
 ## Links
 
 * Official Minetest discord: https://discord.gg/minetest
+* [Projects dashboard](./dashboard.md)
