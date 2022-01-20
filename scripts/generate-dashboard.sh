@@ -2,7 +2,7 @@
 # requires: jq
 
 json=$(curl https://api.github.com/orgs/mt-mods/repos?per_page=100)
-names=$(echo $json | jq -r 'sort_by(.stargazers_count) | map(select(.name != "mt-mods")) | reverse | .[].name')
+names=$(echo $json | jq -r 'sort_by(.name) | map(select(.name != "mt-mods")) | .[].name')
 
 echo "|Name|Last commit|Open issues|Open PR's|Contributors|"
 echo "|---|---|---|---|---|"
