@@ -15,7 +15,7 @@ Join the `mt-mods` community here:
 
 * IRC: #mt-mods or #mt-mods-offtopic on [libera.chat](https://libera.chat)
 * Discord: https://discord.gg/8k3K5nyj7x
-* Matrix: *not bridged yet, helpers welcome*
+* Matrix: https://matrix.to/#/#mt-mods:matrix.org
 
 ## Guidelines
 
