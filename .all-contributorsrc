@@ -1,0 +1,141 @@
+{
+  "projectName": "mt-mods",
+  "projectOwner": "mt-mods",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "readme.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitConvention": "gitmoji",
+  "contributors": [
+    {
+      "login": "BuckarooBanzay",
+      "name": "Buckaroo Banzai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/39065740?v=4",
+      "profile": "https://github.com/BuckarooBanzay",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "S-S-X",
+      "name": "SX",
+      "avatar_url": "https://avatars.githubusercontent.com/u/50966843?v=4",
+      "profile": "https://github.com/S-S-X",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "OgelGames",
+      "name": "OgelGames",
+      "avatar_url": "https://avatars.githubusercontent.com/u/48543043?v=4",
+      "profile": "https://ogelgames.itch.io/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "SwissalpS",
+      "name": "Luke aka SwissalpS",
+      "avatar_url": "https://avatars.githubusercontent.com/u/161979?v=4",
+      "profile": "https://github.com/SwissalpS",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "wsor4035",
+      "name": "wsor4035",
+      "avatar_url": "https://avatars.githubusercontent.com/u/24964441?v=4",
+      "profile": "https://github.com/wsor4035",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "6r1d",
+      "name": "Victor",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2552837?v=4",
+      "profile": "https://github.com/6r1d",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "luk3yx",
+      "name": "luk3yx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3182651?v=4",
+      "profile": "https://github.com/luk3yx",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Panquesito7",
+      "name": "David Leal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/51391473?v=4",
+      "profile": "https://stackoverflow.com/story/panquesito7",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "cheapie",
+      "name": "cheapie",
+      "avatar_url": "https://avatars.githubusercontent.com/u/415827?v=4",
+      "profile": "https://github.com/cheapie",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "groxxda",
+      "name": "Alexander Ried",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5701271?v=4",
+      "profile": "https://github.com/groxxda",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "nixnoxus",
+      "name": "nixnoxus",
+      "avatar_url": "https://avatars.githubusercontent.com/u/87639406?v=4",
+      "profile": "https://github.com/nixnoxus",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Omikhleia",
+      "name": "Omikhleia",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18075640?v=4",
+      "profile": "https://github.com/Omikhleia",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "oversword",
+      "name": "Oversword",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1569128?v=4",
+      "profile": "https://oversword.co.uk/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "uprince",
+      "name": "uprince",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9484563?v=4",
+      "profile": "https://github.com/uprince",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7
+}

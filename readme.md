@@ -1,4 +1,7 @@
 
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-14-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 # mt-mods github organization
 
 ## About
@@ -33,3 +36,38 @@ General notes:
 
 * Official Minetest discord: https://discord.gg/minetest
 * [Projects dashboard](./dashboard.md)
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/BuckarooBanzay"><img src="https://avatars.githubusercontent.com/u/39065740?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Buckaroo Banzai</b></sub></a><br /><a href="https://github.com/mt-mods/mt-mods/commits?author=BuckarooBanzay" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/S-S-X"><img src="https://avatars.githubusercontent.com/u/50966843?v=4?s=100" width="100px;" alt=""/><br /><sub><b>SX</b></sub></a><br /><a href="https://github.com/mt-mods/mt-mods/commits?author=S-S-X" title="Code">💻</a></td>
+    <td align="center"><a href="https://ogelgames.itch.io/"><img src="https://avatars.githubusercontent.com/u/48543043?v=4?s=100" width="100px;" alt=""/><br /><sub><b>OgelGames</b></sub></a><br /><a href="https://github.com/mt-mods/mt-mods/commits?author=OgelGames" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/SwissalpS"><img src="https://avatars.githubusercontent.com/u/161979?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Luke aka SwissalpS</b></sub></a><br /><a href="https://github.com/mt-mods/mt-mods/commits?author=SwissalpS" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/wsor4035"><img src="https://avatars.githubusercontent.com/u/24964441?v=4?s=100" width="100px;" alt=""/><br /><sub><b>wsor4035</b></sub></a><br /><a href="https://github.com/mt-mods/mt-mods/commits?author=wsor4035" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/6r1d"><img src="https://avatars.githubusercontent.com/u/2552837?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Victor</b></sub></a><br /><a href="https://github.com/mt-mods/mt-mods/commits?author=6r1d" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/luk3yx"><img src="https://avatars.githubusercontent.com/u/3182651?v=4?s=100" width="100px;" alt=""/><br /><sub><b>luk3yx</b></sub></a><br /><a href="https://github.com/mt-mods/mt-mods/commits?author=luk3yx" title="Code">💻</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://stackoverflow.com/story/panquesito7"><img src="https://avatars.githubusercontent.com/u/51391473?v=4?s=100" width="100px;" alt=""/><br /><sub><b>David Leal</b></sub></a><br /><a href="https://github.com/mt-mods/mt-mods/commits?author=Panquesito7" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/cheapie"><img src="https://avatars.githubusercontent.com/u/415827?v=4?s=100" width="100px;" alt=""/><br /><sub><b>cheapie</b></sub></a><br /><a href="https://github.com/mt-mods/mt-mods/commits?author=cheapie" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/groxxda"><img src="https://avatars.githubusercontent.com/u/5701271?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Alexander Ried</b></sub></a><br /><a href="https://github.com/mt-mods/mt-mods/commits?author=groxxda" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/nixnoxus"><img src="https://avatars.githubusercontent.com/u/87639406?v=4?s=100" width="100px;" alt=""/><br /><sub><b>nixnoxus</b></sub></a><br /><a href="https://github.com/mt-mods/mt-mods/commits?author=nixnoxus" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/Omikhleia"><img src="https://avatars.githubusercontent.com/u/18075640?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Omikhleia</b></sub></a><br /><a href="https://github.com/mt-mods/mt-mods/commits?author=Omikhleia" title="Code">💻</a></td>
+    <td align="center"><a href="https://oversword.co.uk/"><img src="https://avatars.githubusercontent.com/u/1569128?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Oversword</b></sub></a><br /><a href="https://github.com/mt-mods/mt-mods/commits?author=oversword" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/uprince"><img src="https://avatars.githubusercontent.com/u/9484563?v=4?s=100" width="100px;" alt=""/><br /><sub><b>uprince</b></sub></a><br /><a href="https://github.com/mt-mods/mt-mods/commits?author=uprince" title="Code">💻</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
