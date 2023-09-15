@@ -1,0 +1,28 @@
+name: update-dashboard
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Setup
+      run: |
+        sudo apt-get update && sudo apt-get install -y jq
+
+    - name: Update dashboard
+      run: ./generate-dashboard.sh
+
+    - name: Commit report
+      run: |
+        if [[ `git status --porcelain` ]]; then
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git commit -am "[ci] dashboard update"
+          git push
+        fi
