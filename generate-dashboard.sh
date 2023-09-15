@@ -12,6 +12,7 @@ else
 fi
 
 > dashboard.md
+echo $json > dashboard.json
 
 echo "|Name|Last commit|Open issues|Open PR's|Contributors|" >> dashboard.md
 echo "|---|---|---|---|---|" >> dashboard.md
