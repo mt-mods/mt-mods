@@ -33,3 +33,7 @@ General notes:
 
 * Official Minetest discord: https://discord.gg/minetest
 * [Projects dashboard](./dashboard.md)
+
+## Code snippets
+
+* [Fast and zero-maintenance LuaCheck workflow](./snippets/luacheck.yml)
