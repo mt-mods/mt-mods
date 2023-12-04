@@ -24,6 +24,8 @@ Projects can be hosted here under the following conditions:
 * PR's should be at least allowed for bugfixing
 * Changes should always be made with backwards-compatibility in mind
 * Choose an open license (https://opensource.org/licenses)
+* PR's should be approved by one mt-mods member (not yourself) outside of simple bugfixes, etc
+* Squashing and merging PR's is prefered unless there is an explicit reason not to
 
 General notes:
 * This isn't a mod-graveyard, be open about new features/refactorings and discussions
