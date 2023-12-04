@@ -29,7 +29,7 @@ General notes:
 * This isn't a mod-graveyard, be open about new features/refactorings and discussions
 * Modding/Coding should be fun, be nice to each other and keep in mind that we are all doing this as a hobby
 * PR's should be created for any changes and approved by one mt-mods member (not yourself)
-* the following are exempted from the above and can be directly commited: simple bugfixes, trival changes, etc
+    * The following are exempted from the above and can be directly commited: simple bugfixes, trival changes, etc
 * Squashing and merging PR's is prefered unless there is an explicit reason not to
 
 ## Links
