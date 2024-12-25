@@ -55,7 +55,7 @@ if os.path.exists(deppath):
     if depends != "":
         conffile.write("depends = " + ", ".join(depends) + "\n")
     if odepends != "":
-        conffile.write("depends = " + ", ".join(odepends) + "\n")
+        conffile.write("optional_depends = " + ", ".join(odepends) + "\n")
     print("[mt_convert]: depends.txt converted")
 
 conffile.close()
