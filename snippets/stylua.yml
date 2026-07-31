@@ -1,0 +1,40 @@
+name: Format Lua
+
+on:
+  pull_request:
+    branches: [main, master]
+    paths:
+      - "**.lua"
+
+jobs:
+  format:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@main
+        with:
+          fetch-depth: 0
+          ref: ${{ github.head_ref }}
+
+      - name: Run StyLua
+        uses: JohnnyMorganz/stylua-action@main
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          version: latest
+          args: .
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+          if [ -n "$(git status --porcelain)" ]; then
+            git add .
+            git commit -m "[ci] Format Lua code"
+            git push origin HEAD:${{ github.head_ref }}
+          else
+            echo "No formatting changes."
+          fi
