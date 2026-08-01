@@ -41,5 +41,5 @@ jobs:
             git commit -m "[ci] Optimize PNGs"
             git push origin HEAD:${{ github.head_ref }}
           else
-            echo "No formatting changes."
+            echo "No files modified."
           fi
