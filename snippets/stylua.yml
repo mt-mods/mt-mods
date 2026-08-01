@@ -24,7 +24,7 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           version: latest
-          args: .
+          args: --syntax lua51 .
 
       - name: Commit and push changes
         run: |
