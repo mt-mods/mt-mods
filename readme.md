@@ -1,9 +1,8 @@
-
 # mt-mods github organization
 
 ## About
 
-This organization is a dedicated place for [minetest](https://www.minetest.net) mods and tools
+This organization is a dedicated place for [Luanti](https://www.luanti.org) mods and tools
 
 Modders can place their projects under this umbrella to collaborate or hand off maintainership (see [Guidelines](#Guidelines))
 
@@ -13,30 +12,32 @@ Modders can place their projects under this umbrella to collaborate or hand off 
 
 Join the `mt-mods` community here:
 
-* IRC: #mt-mods or #mt-mods-offtopic on [libera.chat](https://libera.chat)
-* Discord: https://discord.gg/8k3K5nyj7x
-* Matrix: https://matrix.to/#/#mt-mods:matrix.org
+- IRC: #mt-mods or #mt-mods-offtopic on [libera.chat](https://libera.chat)
+- Discord: https://discord.gg/8k3K5nyj7x
+- Matrix: https://matrix.to/#/#mt-mods:matrix.org
 
 ## Guidelines
 
 Projects can be hosted here under the following conditions:
-* It must have at least one maintainer or be adopted by a member of this organization
-* PR's should be at least allowed for bugfixing
-* Changes should always be made with backwards-compatibility in mind
-* Choose an open license (https://opensource.org/licenses)
+
+- It must have at least one maintainer or be adopted by a member of this organization
+- PR's should be at least allowed for bugfixing
+- Changes should always be made with backwards-compatibility in mind
+- Choose an open license (https://opensource.org/licenses)
 
 General notes:
-* This isn't a mod-graveyard, be open about new features/refactorings and discussions
-* Modding/Coding should be fun, be nice to each other and keep in mind that we are all doing this as a hobby
-* PR's should be created for any changes and approved by one mt-mods member (not yourself)
-    * The following are exempted from the above and can be directly commited: simple bugfixes, trival changes, etc
-* Squashing and merging PR's is prefered unless there is an explicit reason not to
+
+- This isn't a mod-graveyard, be open about new features/refactorings and discussions
+- Modding/Coding should be fun, be nice to each other and keep in mind that we are all doing this as a hobby
+- PR's should be created for any changes and approved by one mt-mods member (not yourself)
+  - The following are exempted from the above and can be directly committed: simple bugfixes, trivial changes, etc
+- Squashing and merging PR's is preferred unless there is an explicit reason not to
 
 ## Links
 
-* Official Minetest discord: https://discord.gg/minetest
-* [Projects dashboard](./dashboard.md)
+- Official Luanti discord: https://discord.gg/minetest
+- [Projects dashboard](./dashboard.md)
 
 ## Code snippets
 
-* [Fast and zero-maintenance LuaCheck workflow](./snippets/luacheck.yml)
+- [Fast and zero-maintenance LuaCheck workflow](./snippets/luacheck.yml)
