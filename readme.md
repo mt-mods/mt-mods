@@ -41,3 +41,5 @@ General notes:
 ## Code snippets
 
 - [Fast and zero-maintenance LuaCheck workflow](./snippets/luacheck.yml)
+- [Auto png file optimization Oxipng workflow](./snippets/oxipng.yml)
+- [Auto .po/.pot locale file update workflow](./snippets/gettext.yml)
